@@ -1,0 +1,21 @@
+[gd_resource type="TileSet" load_steps=4 format=3 uid="uid://dqu8lb4v6sr3p"]
+
+[ext_resource type="Texture2D" uid="uid://b8jdy8a6upa0h" path="res://grass_Background.png" id="1_lc41n"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_r5x48"]
+texture = ExtResource("1_lc41n")
+0:0/0 = 0
+1:0/0 = 0
+0:1/0 = 0
+1:1/0 = 0
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_1emwe"]
+texture = ExtResource("1_lc41n")
+0:0/0 = 0
+1:0/0 = 0
+0:1/0 = 0
+1:1/0 = 0
+
+[resource]
+sources/1 = SubResource("TileSetAtlasSource_r5x48")
+sources/2 = SubResource("TileSetAtlasSource_1emwe")

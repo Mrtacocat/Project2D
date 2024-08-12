@@ -11,7 +11,7 @@ public partial class main_menu : Node2D
 	public void _on_start_button_pressed()
 	{
 		GD.Print("Play button clicked");
-		GetTree().ChangeSceneToFile("res://testscene.tscn");
+		GetTree().ChangeSceneToFile("res://Scenes/world.tscn");
 	}
 	
 }

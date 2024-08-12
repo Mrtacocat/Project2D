@@ -11,10 +11,14 @@ config_version=5
 [application]
 
 config/name="project2D"
-run/main_scene="res://world.tscn"
+run/main_scene="res://Scenes/world.tscn"
 config/features=PackedStringArray("4.2", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 <<<<<<<HEADconfig/name="project2D"
+
+[display]
+
+window/size/mode=3
 
 [dotnet]
 

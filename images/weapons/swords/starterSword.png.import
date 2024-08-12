@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b8jdy8a6upa0h"
-path="res://.godot/imported/grass_Background.png-4a8a7e0e0cb60ed3d79c665c21a7cb68.ctex"
+uid="uid://le68jumkcro0"
+path="res://.godot/imported/starterSword.png-47f0374f3a3044577bdf86040a81953a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Backgrounds/grass_Background.png"
-dest_files=["res://.godot/imported/grass_Background.png-4a8a7e0e0cb60ed3d79c665c21a7cb68.ctex"]
+source_file="res://images/weapons/swords/starterSword.png"
+dest_files=["res://.godot/imported/starterSword.png-47f0374f3a3044577bdf86040a81953a.ctex"]
 
 [params]
 

@@ -1,10 +1,10 @@
 [gd_scene load_steps=3 format=3 uid="uid://c3dq4lqo4sdl2"]
 
-[ext_resource type="Script" path="res://main_menu.cs" id="1_j02kf"]
-[ext_resource type="Texture2D" uid="uid://bvik31601ssxb" path="res://Backgrounds/MainMenuBackground.png" id="1_svhka"]
+[ext_resource type="Script" path="res://Scripts/main_menu.cs" id="1_jdxi3"]
+[ext_resource type="Texture2D" uid="uid://bvik31601ssxb" path="res://images/Backgrounds/MainMenuBackground.png" id="2_j5nk1"]
 
 [node name="MainMenu" type="Node2D"]
-script = ExtResource("1_j02kf")
+script = ExtResource("1_jdxi3")
 
 [node name="Menu" type="CanvasLayer" parent="."]
 
@@ -39,6 +39,6 @@ text = "Start"
 [node name="MainMenuBackground" type="Sprite2D" parent="."]
 position = Vector2(577, 323)
 scale = Vector2(0.195313, 0.110394)
-texture = ExtResource("1_svhka")
+texture = ExtResource("2_j5nk1")
 
 [connection signal="pressed" from="Menu/StartButton" to="." method="_on_start_button_pressed"]
