@@ -10,52 +10,16 @@ config_version=5
 
 [application]
 
-<<<<<<< HEAD
 config/name="Project 2D"
-config/features=PackedStringArray("4.2", "Forward Plus")
+run/main_scene="res://world.tscn"
+config/features=PackedStringArray("4.2", "C#", "Forward Plus")
+<<<<<<<HEADconfig/name="Project 2D"
 
 [dotnet]
 
 project/assembly_name="Project 2D"
-=======
-config/name="project2D"
-run/main_scene="res://world.tscn"
-config/features=PackedStringArray("4.2", "C#", "Forward Plus")
-config/icon="res://icon.svg"
-<<<<<<<HEADconfig/name="project2D"
-
-[dotnet]
-
-project/assembly_name="project2D"
->>>>>>> 775d5c6e2190661fbc4a5719dbf2064049b414ba
 
 [editor]
 
 version_control/plugin_name="GitPlugin"
 version_control/autoload_on_startup=true
-<<<<<<< HEAD
-=======
-
-[input]
-
-move_up={
-"deadzone": 0.5,
-"events": [Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":0,"physical_keycode":87,"key_label":0,"unicode":119,"echo":false,"script":null)
-]
-}
-move_down={
-"deadzone": 0.5,
-"events": [Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":0,"physical_keycode":83,"key_label":0,"unicode":115,"echo":false,"script":null)
-]
-}
-move_left={
-"deadzone": 0.5,
-"events": [Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":0,"physical_keycode":65,"key_label":0,"unicode":97,"echo":false,"script":null)
-]
-}
-move_right={
-"deadzone": 0.5,
-"events": [Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":0,"physical_keycode":68,"key_label":0,"unicode":100,"echo":false,"script":null)
-]
-}
->>>>>>> 775d5c6e2190661fbc4a5719dbf2064049b414ba

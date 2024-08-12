@@ -1,4 +1,4 @@
-[gd_scene load_steps=7 format=3 uid="uid://b5ys0dvomnoyt"]
+[gd_scene load_steps=7 format=3 uid="uid://roxpe0qwfuxm"]
 
 [ext_resource type="Script" path="res://Character.cs" id="1_cnmu5"]
 [ext_resource type="Texture2D" uid="uid://b8jdy8a6upa0h" path="res://Backgrounds/grass_Background.png" id="1_j8s00"]
