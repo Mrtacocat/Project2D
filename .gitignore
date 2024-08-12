@@ -2,6 +2,8 @@
 .godot/
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
 
 # Godot-specific ignores
 .import/
@@ -16,3 +18,4 @@ export_presets.cfg
 data_*/
 mono_crash.*.json
 >>>>>>> 5e85c89059cebfcde3402b2600032099e6c581b1
+>>>>>>> 775d5c6e2190661fbc4a5719dbf2064049b414ba

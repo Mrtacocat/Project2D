@@ -10,11 +10,15 @@ config_version=5
 
 [application]
 
+<<<<<<< HEAD
 config/name="project2D"
 run/main_scene="res://Scenes/world.tscn"
+=======
+config/name="Project 2D"
+run/main_scene="res://world.tscn"
+>>>>>>> cca7193198772c151b00b42556106ca7479d9c48
 config/features=PackedStringArray("4.2", "C#", "Forward Plus")
-config/icon="res://icon.svg"
-<<<<<<<HEADconfig/name="project2D"
+<<<<<<<HEADconfig/name="Project 2D"
 
 [display]
 
@@ -22,7 +26,7 @@ window/size/mode=3
 
 [dotnet]
 
-project/assembly_name="project2D"
+project/assembly_name="Project 2D"
 
 [editor]
 
