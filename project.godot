@@ -19,11 +19,14 @@ config/icon="res://icon.svg"
 
 project/assembly_name="Cozy Adventure 2d"
 
+<<<<<<< HEAD
 [editor]
 
 version_control/plugin_name="GitPlugin"
 version_control/autoload_on_startup=true
 
+=======
+>>>>>>> 40be8f20841eaac0b7b63eb84ebc750a4ca2b2f7
 [input]
 
 move_right={
