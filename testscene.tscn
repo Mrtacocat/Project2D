@@ -34,6 +34,7 @@ sprite_frames = SubResource("SpriteFrames_pitj0")
 animation = &"walk"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
+<<<<<<< HEAD
 
 [node name="HUD" type="CanvasLayer" parent="."]
 
@@ -42,3 +43,5 @@ offset_right = 40.0
 offset_bottom = 23.0
 text = "Test
 "
+=======
+>>>>>>> 40be8f20841eaac0b7b63eb84ebc750a4ca2b2f7
