@@ -1,0 +1,6 @@
+[gd_resource type="FontVariation" load_steps=2 format=3 uid="uid://bduxupj6v4lh7"]
+
+[ext_resource type="FontFile" uid="uid://rreomblifxxo" path="res://Font/MinimalPixel v2.ttf" id="1_cw2vc"]
+
+[resource]
+base_font = ExtResource("1_cw2vc")

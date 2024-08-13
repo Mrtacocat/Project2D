@@ -1,0 +1,6 @@
+[gd_resource type="FontVariation" load_steps=2 format=3 uid="uid://1i4ojm6j3f1e"]
+
+[ext_resource type="FontFile" uid="uid://bckowuxeq2fju" path="res://Font/MinimalPixelFont.ttf" id="1_vnxjm"]
+
+[resource]
+base_font = ExtResource("1_vnxjm")
